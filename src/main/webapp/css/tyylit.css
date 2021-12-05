@@ -1,0 +1,11 @@
+.btn bg-white text-dark {
+	cursor: pointer;	
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.oikealle {
+	text-align: right !important;		
+}
